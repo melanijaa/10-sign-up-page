@@ -12,10 +12,12 @@ Design: https://cdn.discordapp.com/attachments/850245533838868480/85024636821490
 
 ## Project features
 
-- 
-- 
-- 
-- 
+
+- Github pages (multi-page)
+- HTML form
+- CSS background images
+- CSS position absolute
+- CSS blur effect
 
 ## Authors
 
