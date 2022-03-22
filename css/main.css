@@ -21,6 +21,20 @@ body {
     float: left;
     padding: 40px;
     background-color: aquamarine;
+    color: white;
+}
+
+.main-title {
+    width:100%;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.bottom-links {
+}
+
+.bottom-links > .link {
+    color: white;
 }
 
 .right-column {
