@@ -20,12 +20,13 @@ body {
     width: 40%;
     float: left;
     padding: 40px;
-    background-color: aquamarine;
-    color: white;
+    background-color: #008fae;
+    color: #fff;
 }
 
 .main-title {
     width:100%;
+    margin-bottom: 250px;
     font-size: 40px;
     font-weight: normal;
 }
@@ -34,12 +35,12 @@ body {
 }
 
 .bottom-links > .link {
-    color: white;
+    color: #fff;
 }
 
 .right-column {
     width: 60%;
     float: left;
     padding: 60px;
-    background-color: blue;
+    background-color: #fff;
 }
