@@ -21,7 +21,10 @@ body {
     float: left;
     padding: 40px;
     background-color: #008fae;
+    background-image: url(../img/star-night-person-man.png);
     color: #fff;
+    background-position: bottom;
+    background-size: cover;
 }
 
 .main-title {
