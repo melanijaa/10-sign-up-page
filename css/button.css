@@ -5,8 +5,14 @@
     padding-left: 30px;
     padding-right: 30px;
     border-radius: 20px;
-    border-color: #00fa;
-    background-color: #015cda;
+    border-color: rgb(26,64,117);
+    background-color: rgb(26,64,117);
     color: #fff;
     cursor: pointer;
+    background: rgb(26,64,117);
+    background: linear-gradient(50deg, rgba(26,64,117,1) 0%, rgba(45,45,108,1) 100%);
+}
+
+.btn:hover {
+    background: linear-gradient(90deg, rgba(26,64,117,1) 0%, rgba(45,45,108,1) 100%);
 }
