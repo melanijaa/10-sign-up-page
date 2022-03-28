@@ -57,7 +57,7 @@ body {
     position: relative;
 }
 
-.right-column > .close {
+.right-column .close {
     width: 60px;
     height: 60px;
     font-size: 25px;
