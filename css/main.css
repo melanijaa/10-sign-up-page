@@ -25,6 +25,7 @@ body {
     color: #fff;
     background-position: bottom;
     background-size: cover;
+    background-repeat: no-repeat;
     position: absolute;
     bottom: 30px;
     top: 30px;
@@ -33,7 +34,6 @@ body {
 
 .main-title {
     width:100%;
-    margin-bottom: 250px;
     font-size: 40px;
     font-weight: normal;
 }
