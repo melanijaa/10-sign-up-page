@@ -4,7 +4,7 @@ body {
     background-image: url(../img/star-night-person-man.png);
     background-repeat: no-repeat;
     backdrop-filter: blur(10px);
-    background-position:bottom;
+    background-position: bottom;
     background-size: cover;
 }
 
